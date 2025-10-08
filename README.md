@@ -76,7 +76,7 @@ kailaash.c
 #include<reg51.h>
 void main(void)
 {
-unsigned char msg[]="Embedded LAB";
+unsigned char msg[]="KAILAASH";
 unsigned char i;
 TMOD=0X20; //TIMER 1, MODE 2
 TH1=0XFA;
